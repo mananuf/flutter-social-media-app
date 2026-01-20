@@ -19,7 +19,7 @@ class _NavbarWidgetState extends State<NavbarWidget> {
           destinations: [
             NavigationDestination(icon: Icon(Icons.home), label: 'home'),
             NavigationDestination(icon: Icon(Icons.chat), label: 'chat'),
-            NavigationDestination(icon: Icon(Icons.camera), label: 'reels'),
+            NavigationDestination(icon: Icon(Icons.camera), label: 'views'),
             NavigationDestination(
               icon: Icon(Icons.settings),
               label: 'settings',
